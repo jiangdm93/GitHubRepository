@@ -16,3 +16,5 @@
 	git commit -m "first commit"
 	git remote add origin https://github.com/jiangdm93/GitHubRepository.git
 	git push -u origin master
+
+讲道理
